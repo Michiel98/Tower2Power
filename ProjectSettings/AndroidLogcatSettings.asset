@@ -1,0 +1,677 @@
+{
+    "m_SelectedDeviceId": "2UP4C20309003790",
+    "m_SelectedPackage": {
+        "deviceId": "2UP4C20309003790",
+        "name": "com.T2P.T2P",
+        "processId": 21292,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 15033,
+            "exited": true
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 18029,
+            "exited": true
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 18764,
+            "exited": true
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 23412,
+            "exited": true
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 23864,
+            "exited": true
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 2224,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.google.android.deskclock",
+            "processId": 23105,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 24819,
+            "exited": true
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 981,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 4248,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 7133,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 8161,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 8468,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 13802,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 17266,
+            "exited": true
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 19109,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 1286,
+            "exited": false
+        },
+        {
+            "deviceId": "949AY0KT25",
+            "name": "com.T2P.T2P",
+            "processId": 2614,
+            "exited": false
+        },
+        {
+            "deviceId": "cac6bacd",
+            "name": "com.T2P.T2P",
+            "processId": 26172,
+            "exited": true
+        },
+        {
+            "deviceId": "cac6bacd",
+            "name": "com.T2P.T2P",
+            "processId": 30156,
+            "exited": true
+        },
+        {
+            "deviceId": "cac6bacd",
+            "name": "com.T2P.T2P",
+            "processId": 30595,
+            "exited": true
+        },
+        {
+            "deviceId": "cac6bacd",
+            "name": "com.T2P.T2P",
+            "processId": 9537,
+            "exited": true
+        },
+        {
+            "deviceId": "cac6bacd",
+            "name": "com.T2P.T2P",
+            "processId": 10140,
+            "exited": true
+        },
+        {
+            "deviceId": "cac6bacd",
+            "name": "com.T2P.T2P",
+            "processId": 16438,
+            "exited": false
+        },
+        {
+            "deviceId": "cac6bacd",
+            "name": "com.T2P.T2P",
+            "processId": 17470,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 24513,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 27255,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 16696,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 17923,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 19479,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 21800,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 23464,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 25451,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 26754,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 28458,
+            "exited": true
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 30298,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 32348,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 2924,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 4901,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 7735,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 9675,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 15346,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 16683,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 19491,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 24090,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 28733,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 32011,
+            "exited": true
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 4573,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 23524,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 25574,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 27853,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 29912,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 32302,
+            "exited": true
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 3341,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 5331,
+            "exited": true
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 7450,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 10211,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 11876,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 14082,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 15487,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 16913,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 18895,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 20479,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 22168,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 23405,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 24848,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 27148,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 28661,
+            "exited": true
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 11426,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 13853,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 17811,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 20889,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 22623,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 10939,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 13423,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 23649,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 24553,
+            "exited": true
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 27013,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 27677,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 1080,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 8291,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 9877,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 18387,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 21245,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 26848,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 28832,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 30784,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 9123,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 16088,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 18073,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 20266,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 23014,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 24432,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.Tower2Power.Tower2Power",
+            "processId": 25696,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.T2P.T2P",
+            "processId": 14430,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.T2P.T2P",
+            "processId": 31252,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.T2P.T2P",
+            "processId": 27398,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.T2P.T2P",
+            "processId": 833,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.T2P.T2P",
+            "processId": 2699,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.T2P.T2P",
+            "processId": 17824,
+            "exited": false
+        },
+        {
+            "deviceId": "2UP4C20309003790",
+            "name": "com.T2P.T2P",
+            "processId": 21292,
+            "exited": false
+        },
+        {
+            "deviceId": "3100092972785311",
+            "name": "com.T2P.T2P",
+            "processId": 17822,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            false,
+            false,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
